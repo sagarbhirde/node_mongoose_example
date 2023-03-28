@@ -1,0 +1,32 @@
+// const mongodb = require('mongodb')
+
+// const transactionsSchema = new mongodb.Schema({
+
+//     account_id :{
+//         type: Number,
+//         required:true
+//     },
+
+//     transaction_count : {
+//         type: Number,
+//         required :true
+//     },
+
+//     bucket_start_date : {
+//         type : Date ,
+//         required :true
+//     },
+
+//     bucket_end_date :{
+//         type: Date,
+//         required :true
+//     },
+
+//     transactions : {
+//         type : Array,
+//         required :t
+//     },
+        
+// })
+
+// module.exports = mongodb.model('Transactions',transactionsSchema)

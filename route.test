@@ -1,0 +1,17 @@
+
+
+GET http://localhost:3000/analytics 
+
+
+
+GET http://localhost:3000/analytics/10
+
+POST http://localhost:3000/analytics
+content-type: application/json
+
+
+{
+account_id:3232,
+limit:4000,
+products:["raw","original"]
+}
